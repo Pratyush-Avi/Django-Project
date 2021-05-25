@@ -28,7 +28,7 @@ There are two project based on beginner level. The first project is based on sim
 ![t1](https://user-images.githubusercontent.com/75266216/119562782-5e674d00-bdc4-11eb-8e45-6a67b2483a7d.JPG) ![t3](https://user-images.githubusercontent.com/75266216/119562894-8191fc80-bdc4-11eb-85e7-6d0e4340fa27.JPG) ![t4](https://user-images.githubusercontent.com/75266216/119562915-86ef4700-bdc4-11eb-9ff9-494794126a70.JPG)
 ![Calc5](https://user-images.githubusercontent.com/75266216/119562930-8bb3fb00-bdc4-11eb-81b6-ad53321dadb3.JPG)
 
-![voting2](https://user-images.githubusercontent.com/75266216/119563021-a8503300-bdc4-11eb-87f8-e57ad09d37d7.JPG)
+![voting3](https://user-images.githubusercontent.com/75266216/119563094-c453d480-bdc4-11eb-84cf-d7d464b8e58b.JPG)
 ![voting2](https://user-images.githubusercontent.com/75266216/119563037-ac7c5080-bdc4-11eb-9c59-d31cfb48ee6b.JPG)
 ![voting1](https://user-images.githubusercontent.com/75266216/119563048-aedeaa80-bdc4-11eb-9e8b-8fc5b35e2510.JPG)
 
