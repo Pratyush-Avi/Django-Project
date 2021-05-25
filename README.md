@@ -5,7 +5,10 @@ There are two project based on beginner level. The first project is based on sim
 
 ## Home Screen and other major screens Snap:
 
-  ![t1](https://user-images.githubusercontent.com/75266216/119562782-5e674d00-bdc4-11eb-8e45-6a67b2483a7d.JPG)
+![t1](https://user-images.githubusercontent.com/75266216/119562782-5e674d00-bdc4-11eb-8e45-6a67b2483a7d.JPG) ![t3](https://user-images.githubusercontent.com/75266216/119562894-8191fc80-bdc4-11eb-85e7-6d0e4340fa27.JPG) ![t4](https://user-images.githubusercontent.com/75266216/119562915-86ef4700-bdc4-11eb-9ff9-494794126a70.JPG)
+![Calc5](https://user-images.githubusercontent.com/75266216/119562930-8bb3fb00-bdc4-11eb-81b6-ad53321dadb3.JPG)
+
+
 
 
 
