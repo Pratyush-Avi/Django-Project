@@ -2,19 +2,6 @@
 There are two project based on beginner level. The first project is based on simple Mathematical calculator and the other project is based on Voting poll based on programming languages.
 
 
-
-## Home Screen and other major screens Snap:
-
-![t1](https://user-images.githubusercontent.com/75266216/119562782-5e674d00-bdc4-11eb-8e45-6a67b2483a7d.JPG) ![t3](https://user-images.githubusercontent.com/75266216/119562894-8191fc80-bdc4-11eb-85e7-6d0e4340fa27.JPG) ![t4](https://user-images.githubusercontent.com/75266216/119562915-86ef4700-bdc4-11eb-9ff9-494794126a70.JPG)
-![Calc5](https://user-images.githubusercontent.com/75266216/119562930-8bb3fb00-bdc4-11eb-81b6-ad53321dadb3.JPG)
-
-
-
-
-
-
-
-
 <br>
 <b>How to run project</b>
 <hr>
@@ -35,3 +22,21 @@ There are two project based on beginner level. The first project is based on sim
 <li>"**Change in settings.py 'DIRS': [os.path.join(BASE_DIR,'templates/votingapp')]"</li>
 <li>Open the link "localhost:8000/votingapp"</li>
 </ul>
+
+## Home Screen and other major screens Snap:
+
+![t1](https://user-images.githubusercontent.com/75266216/119562782-5e674d00-bdc4-11eb-8e45-6a67b2483a7d.JPG) ![t3](https://user-images.githubusercontent.com/75266216/119562894-8191fc80-bdc4-11eb-85e7-6d0e4340fa27.JPG) ![t4](https://user-images.githubusercontent.com/75266216/119562915-86ef4700-bdc4-11eb-9ff9-494794126a70.JPG)
+![Calc5](https://user-images.githubusercontent.com/75266216/119562930-8bb3fb00-bdc4-11eb-81b6-ad53321dadb3.JPG)
+
+![voting2](https://user-images.githubusercontent.com/75266216/119563021-a8503300-bdc4-11eb-87f8-e57ad09d37d7.JPG)
+![voting2](https://user-images.githubusercontent.com/75266216/119563037-ac7c5080-bdc4-11eb-9c59-d31cfb48ee6b.JPG)
+![voting1](https://user-images.githubusercontent.com/75266216/119563048-aedeaa80-bdc4-11eb-9e8b-8fc5b35e2510.JPG)
+
+
+
+
+
+
+
+
+
