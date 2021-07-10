@@ -1,4 +1,4 @@
-# Django-Project     
+# Django-Project      
 There are two project based on beginner level. The first project is based on simple Mathematical calculator and the other project is based on Voting poll using Django programming language. I really enjoyed in learning and creating project based on Django and getting an experience on backend code
 
 I have also used bootstrap to create forms, adding table, creating progress bar and many more things. I have added image to create attractness towards the user. Then there are alert handling message for the forms. There is also adding instruction to use the application and submitting query to get the results, there is list for voting poll where data will be sorted in ascending order according to the resultant poll.  
