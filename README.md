@@ -4,7 +4,7 @@ There are two project based on beginner level. The first project is based on sim
 I have also used bootstrap to create forms, adding table, creating progress bar and many more things. I have added image to create attractness towards the user. Then there are alert handling message for the forms. There is also adding instruction to use the application and submitting query to get the results, there is list for voting poll where data will be sorted in ascending order according to the resultant poll.  
 
 <br>
-<b>How to run project</b> 
+<b>How to run project</b>  
 <hr>
 <ul>
 <li>Download Project or Clone Repository, extract files and move inside project folder, and type the following commands.</li>
